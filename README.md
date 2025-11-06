@@ -74,7 +74,7 @@ ratings
 3. **[Your finding #3]** - Example: "Students and engineers are the most active occupations"
 
 ### Genre Insights
-1. **[Your finding #1]** - Example: "Drama is the most-rated genre with over 25,000 ratings"
+1. **Users are highly critical:** - The platform has a strong critical bias. Over 55% of all 100,000 ratings are 1 or 2 stars, while only 17.5% are positive 4 or 5-star ratings.
 2. **[Your finding #2]** - Example: "Action-Comedy combinations receive higher average ratings than pure action movies"
 3. **[Your finding #3]** - Example: "Sci-Fi movie ratings have increased steadily from the 1970s to 1990s"
 
